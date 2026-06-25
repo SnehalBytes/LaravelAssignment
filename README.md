@@ -8,12 +8,6 @@ A beginner-friendly Laravel project built using **Laravel Blade**, **HTML**, **C
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-
-The main page displaying the to-do list application.
-
-![Home Page](screenshots/home.png)
-
 ### ➕ Add Tasks
 
 Users can enter a task and click the **Add** button to add it to the numbered task list.
@@ -155,7 +149,3 @@ LaravelAssignment
 - **Visual Studio Code** — Code editor used for development.
 
 ---
-
-## 📄 License
-
-This project is created for learning purposes as part of a Laravel assignment.
